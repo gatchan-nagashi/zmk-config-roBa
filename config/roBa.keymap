@@ -83,10 +83,10 @@
 
         NUM {
             bindings = <
-&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5                              &kp NUMBER_6    &kp N7        &kp NUMBER_8     &kp N9    &kp N0
-&trans        &trans        &trans        &trans        &trans  &trans      &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &kp HOME  &kp END
-&trans        &trans        &trans        &trans        &trans  &trans      &trans          &trans          &trans        &trans           &trans    &trans
-&trans        &trans        &trans        &trans        &trans  &trans      &trans          &sl 0                                                    &trans
+&kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp N5                        &kp NUMBER_6    &kp N7          &kp NUMBER_8  &kp N9           &kp N0
+&trans        &trans        &trans        &trans        &trans  &trans      &kp HOME  &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &kp END
+&trans        &trans        &trans        &trans        &trans  &trans      &trans    &trans          &trans          &trans        &trans           &trans
+&trans        &trans        &trans        &trans        &trans  &trans      &trans    &sl 0                                                          &trans
             >;
         };
 
